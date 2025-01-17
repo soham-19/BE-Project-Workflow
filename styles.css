@@ -1,0 +1,214 @@
+/* Global Styles */
+:root {
+    --primary-color: #004480;
+    --secondary-color: #00f2fe;
+    --background-color: #f8f9fa;
+    --text-color: #333;
+    --button-hover-color: #123049;
+    --spinner-color: #007bff;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text-color);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Container */
+  .container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header Styles */
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: var(--primary-color);
+  }
+  
+  h2, h3 {
+    color: var(--primary-color);
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+  
+  /* Form Styles */
+  form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-label {
+    font-size: 0.9rem;
+  }
+  
+  input[type="file"] {
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 10px;
+    font-size: 1rem;
+  }
+  
+  input[type="file"]:hover {
+    border-color: var(--primary-color);
+  }
+  
+  /* Button Styles */
+  .btn-primary {
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    border: none;
+    color: white;
+    font-weight: 600;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background: linear-gradient(to right, var(--secondary-color), var(--primary-color));
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .btn-secondary {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    color: var(--primary-color);
+    transition: background 0.2s ease, border-color 0.2s ease;
+  }
+  
+  .btn-secondary:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    color: #fff;
+  }
+  
+  /* Spinner */
+  .spinner-border {
+    width: 3rem;
+    height: 3rem;
+    color: var(--spinner-color);
+    display: none;
+  }
+  
+  /* Alert Styles */
+  .alert {
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 8px;
+  }
+  
+  .alert-info {
+    background-color: #d1ecf1;
+    color: #0c5460;
+  }
+  
+  .alert-success {
+    background-color: #d4edda;
+    color: #155724;
+  }
+  
+  /* Chart Styles */
+  #lineChart {
+    width: 100% !important;
+    max-width: 800px;
+    height: 400px;
+    margin: 20px auto;
+    border: 3px solid #333;
+  }
+  
+  #chartTitle {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.25rem;
+    color: var(--primary-color);
+  }
+  
+  /* Modal Styles */
+  .modal-content {
+    border-radius: 10px;
+  }
+  
+  .modal-header {
+    background-color: var(--primary-color);
+    color: white;
+  }
+  
+  .modal-body {
+    padding: 20px;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  .modal-footer {
+    background-color: #f1f1f1;
+  }
+  
+  .modal-title {
+    font-size: 1.25rem;
+  }
+  
+  /* Responsive Styles */
+  @media screen and (max-width: 768px) {
+    .container {
+      padding: 15px;
+    }
+  
+    h1, h2, h3 {
+      font-size: 1.5rem;
+    }
+  
+    .btn-primary, .btn-secondary {
+      width: 100%;
+    }
+  
+    .card {
+      margin-bottom: 20px;
+    }
+  }
+  
+
+  /* Button Styles */
+.btn-start-workflow {
+    background-color: #007bff; /* Solid, calm blue */
+    color: white;
+    padding: 12px 20px;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 50px; /* Smooth, rounded edges */
+    border: none;
+    text-transform: uppercase; /* Capitalize text for a mature look */
+    transition: all 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(0, 123, 255, 0.3); /* Soft shadow for depth */
+  }
+  
+  .btn-start-workflow:hover {
+    background-color: #0056b3; /* Slightly darker shade on hover */
+    transform: translateY(-2px); /* Lift effect */
+    box-shadow: 0px 6px 15px rgba(0, 86, 179, 0.3); /* Stronger shadow on hover */
+  }
+  
+  .btn-start-workflow:active {
+    background-color: #004085; /* Even darker shade for a pressed effect */
+    transform: translateY(0); /* Reset lift effect */
+    box-shadow: 0px 4px 10px rgba(0, 123, 255, 0.2); /* Lighter shadow on click */
+  }
+  
+  .btn-start-workflow:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.4); /* Subtle focus outline */
+  }
+  
+  /* Additional text adjustments */
+  .btn-start-workflow span {
+    font-size: 1.1rem; /* Slightly larger text for focus */
+    letter-spacing: 0.5px; /* Add space between letters for a clean, modern look */
+  }
+  

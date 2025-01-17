@@ -1,0 +1,17 @@
+Sentiment Analysis Report
+==========================
+Total Entries,129
+Average Sentiment,0.15
+Average Subjectivity,0.41
+Sentiment Breakdown
+---------------------
+Positive Entries,70
+Negative Entries,214
+Neutral Entries,45
+Subjectivity Breakdown
+-------------------------
+Highly Subjective Entries (Subjectivity > 0.5),7
+Key Phrases
+-------------
+Most Positive Sentence,I was happy hearing that
+Most Negative Sentence,I find it frustrating to control my temper

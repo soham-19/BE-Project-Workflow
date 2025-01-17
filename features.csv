@@ -1,0 +1,217 @@
+start_time,stop_time,speaker,value,cleaned_text,sentiment_polarity,sentiment_class,sentence_count,avg_word_length,char_count,emotion_intensity,word_count,joy,anger,fear,sadness,surprise,disgust,neutral
+0.86,2.34,Participant," Yeah, there's all sorts of differences.","Yeah, there's sorts differences.",0.0,neutral,1.0,7.25,32.0,0.296,4,0.0,0.0,0.0,0.0,0.0,0.0,0.8931214809417725
+2.72,3.94,Participant, I'm gonna go along in this building.,I'm gonna go along building.,0.0,neutral,1.0,4.8,28.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.4488587975502014
+5.16,6.98,Participant," It's here in my Craigslist, so that's why.","Craigslist, that's why.",0.0,neutral,1.0,7.0,23.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9114905595779419
+7.22,9.36,Participant," Oh, yeah, there's a couple groups of these stakes.","Oh, yeah, there's couple groups stakes.",0.0,neutral,1.0,5.666666666666667,39.0,0.296,6,0.0,0.0,0.0,0.0,0.0,0.0,0.9386617541313171
+10.2,11.78,Participant," Alright, perfect.","Alright, perfect.",1.0,positive,1.0,8.0,17.0,0.6908,2,0.0,0.0,0.0,0.0,0.0,0.0,0.8006299734115601
+12.0,13.58,Participant, So this is the show I'm here with.,show I'm with.,0.0,neutral,1.0,4.0,14.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.4544343948364258
+14.48,15.52,Participant, Can I try it?,try it?,0.0,neutral,1.0,3.0,7.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.6832002997398376
+16.7,17.3,Participant, Quite interesting.,Quite interesting.,0.5,positive,1.0,8.5,18.0,0.4576,2,0.0,0.0,0.0,0.0,0.8518898487091064,0.0,0.0
+17.44,17.94,Participant, We can get started.,get started.,0.0,neutral,1.0,5.5,12.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.8634499311447144
+22.14,22.58,Participant, Alright.,Alright.,0.0,neutral,1.0,8.0,8.0,0.25,1,0.0,0.0,0.0,0.0,0.0,0.0,0.6827763915061951
+29.18,30.5,Participant," Hi, I'm Ali.","Hi, I'm Ali.",0.0,neutral,1.0,3.3333333333333335,12.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.8862878084182739
+31.06,32.02,Participant, Thanks for coming in today.,Thanks coming today.,0.2,positive,1.0,6.0,20.0,0.4404,3,0.0,0.0,0.0,0.0,0.0,0.0,0.4813469648361206
+32.78,35.78,Participant, Thanks for creating some toxic people in the safe and secure environment.,Thanks creating toxic people safe secure environment.,0.3666666666666667,positive,1.0,6.714285714285714,53.0,0.8555,7,0.0,0.0,0.0,0.0,0.0,0.0,0.4982978403568268
+36.54,37.48,Participant, Think of me as a friend.,Think friend.,0.0,neutral,1.0,6.0,13.0,0.4939,2,0.0,0.0,0.0,0.0,0.0,0.0,0.8476609587669373
+38.34,38.8,Participant, I don't judge.,judge.,0.0,neutral,1.0,6.0,6.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.35208070278167725
+39.36,39.9,Participant, I can't.,can't.,0.0,neutral,1.0,6.0,6.0,0.0,1,0.0,0.0,0.0,0.4735851585865021,0.0,0.0,0.0
+40.16,40.7,Participant, I'm a computer.,I'm computer.,0.0,neutral,1.0,6.0,13.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.6587522625923157
+42.12,42.46,Participant, Okay.,Okay.,0.5,positive,1.0,5.0,5.0,0.2263,1,0.0,0.0,0.0,0.0,0.0,0.0,0.534888744354248
+42.56,44.84,Participant, We don't learn about people and we'd love to learn about you.,learn people we'd love learn you.,0.5,positive,1.0,4.666666666666667,33.0,0.6369,6,0.0,0.0,0.0,0.0,0.0,0.0,0.8032333850860596
+45.52,47.44,Participant, I'll ask a few questions today to start it.,I'll ask questions today start it.,0.0,neutral,1.0,4.833333333333333,34.0,0.0,6,0.0,0.0,0.5347339510917664,0.0,0.0,0.0,0.0
+47.44,49.76,Participant, And please feel free to tell me anything.,please feel free tell anything.,0.4,positive,1.0,5.4,31.0,0.6808,5,0.0,0.0,0.0,0.0,0.0,0.0,0.6148743629455566
+49.94,51.5,Participant, Variant systems are totally confidential.,Variant systems totally confidential.,0.0,neutral,1.0,8.5,37.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.7469399571418762
+52.64,53.7,Participant, How are you doing today?,today?,0.0,neutral,1.0,6.0,6.0,0.0,1,0.0,0.0,0.0,0.0,0.8074905276298523,0.0,0.0
+54.26,54.86,Participant, I'm doing good.,I'm good.,0.7,positive,1.0,4.0,9.0,0.4404,2,0.9161906838417053,0.0,0.0,0.0,0.0,0.0,0.0
+55.3,55.9,Participant, Thank you.,Thank you.,0.0,neutral,1.0,4.5,10.0,0.3612,2,0.0,0.0,0.0,0.0,0.0,0.0,0.6663600206375122
+55.98,56.24,Participant, What's good?,What's good?,0.7,positive,1.0,5.5,12.0,0.4404,2,0.0,0.0,0.0,0.0,0.0,0.0,0.5463358759880066
+58.06,59.24,Participant, We're from Los Angeles.,We're Los Angeles.,0.0,neutral,1.0,5.333333333333333,18.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.8043205142021179
+59.86,60.78,Participant, I'm from Los Angeles.,I'm Los Angeles.,0.0,neutral,1.0,4.666666666666667,16.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.6757016777992249
+61.94,62.9,Participant, You too.,too.,0.0,neutral,1.0,4.0,4.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.864634096622467
+63.46,63.96,Participant," Oh, great.","Oh, great.",0.8,positive,1.0,4.5,10.0,0.6249,2,0.8558104634284973,0.0,0.0,0.0,0.0,0.0,0.0
+65.98,66.76,Participant, Where do you live?,live?,0.13636363636363635,positive,1.0,5.0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.5019973516464233
+67.36,69.78,Participant," I live in West Los Angeles, the West Side.","live West Los Angeles, West Side.",0.13636363636363635,positive,1.0,4.666666666666667,33.0,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.4968242347240448
+70.64,71.12,Participant, Nice.,Nice.,0.6,positive,1.0,5.0,5.0,0.4215,1,0.0,0.0,0.0,0.0,0.0,0.0,0.48244577646255493
+72.28,73.94,Participant, How do you like your life in a situation?,like life situation?,0.0,neutral,1.0,6.0,20.0,0.3612,3,0.0,0.0,0.0,0.0,0.0,0.0,0.7890752553939819
+74.46,75.06,Participant, It's alright.,alright.,0.0,neutral,1.0,8.0,8.0,0.25,1,0.0,0.0,0.0,0.0,0.0,0.0,0.5266661047935486
+78.0,79.06,Participant, I live alone.,live alone.,0.13636363636363635,positive,1.0,5.0,11.0,-0.25,2,0.0,0.0,0.0,0.9317877292633057,0.0,0.0,0.0
+79.52,79.52,Participant,,,0.0,neutral,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.5494767427444458
+79.52,79.52,Participant,,,0.0,neutral,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.5494767427444458
+80.92,81.74,Participant, That's great.,That's great.,0.8,positive,1.0,6.0,13.0,0.6249,2,0.9287320375442505,0.0,0.0,0.0,0.0,0.0,0.0
+83.5,84.68,Participant, How do you like your life?,like life?,0.0,neutral,1.0,4.5,10.0,0.3612,2,0.0,0.0,0.0,0.0,0.0,0.0,0.517117440700531
+85.34,85.96,Participant, I love it.,love it.,0.5,positive,1.0,3.5,8.0,0.6369,2,0.0,0.0,0.0,0.0,0.0,0.0,0.5559833645820618
+86.22,86.88,Participant, I'm from here.,I'm here.,0.0,neutral,1.0,4.0,9.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.5607833862304688
+87.16,88.42,Participant, So I grew up here.,grew here.,0.0,neutral,1.0,4.5,10.0,0.0,2,0.0,0.0,0.0,0.0,0.33772554993629456,0.0,0.0
+88.66,89.36,Participant, It's natural.,natural.,0.1,positive,1.0,8.0,8.0,0.3612,1,0.0,0.0,0.0,0.0,0.0,0.0,0.44825389981269836
+90.84,91.06,Participant, Yeah.,Yeah.,0.0,neutral,1.0,5.0,5.0,0.296,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8143126368522644
+92.32,94.5,Participant, Where's the things you really like about my life?,Where's things really like life?,0.2,positive,1.0,5.6,32.0,0.4201,5,0.0,0.0,0.0,0.0,0.0,0.0,0.8473276495933533
+95.32,95.88,Participant, The weather.,weather.,0.0,neutral,1.0,8.0,8.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.603103756904602
+97.5,98.4,Participant, All the weather.,weather.,0.0,neutral,1.0,8.0,8.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.603103756904602
+99.38,100.4,Participant, It's always good.,always good.,0.7,positive,1.0,5.5,12.0,0.4404,2,0.8157738447189331,0.0,0.0,0.0,0.0,0.0,0.0
+100.82,102.06,Participant, It's never bad.,never bad.,0.3499999999999999,positive,1.0,4.5,10.0,0.431,2,0.0,0.0,0.0,0.0,0.0,0.5373139381408691,0.0
+104.02,105.56,Participant, There's always something to do.,There's always something do.,0.0,neutral,1.0,6.25,28.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.9338192939758301
+106.08,107.72,Participant, It's a rarely dull moment.,rarely dull moment.,-0.2916666666666667,negative,1.0,5.666666666666667,19.0,0.3089,3,0.0,0.0,0.0,0.9792082905769348,0.0,0.0,0.0
+108.94,111.8,Participant, Where are some things you know what you like about my life?,things know like life?,0.0,neutral,1.0,4.75,22.0,0.3612,4,0.0,0.0,0.0,0.0,0.0,0.0,0.8520818948745728
+112.28,112.86,Participant, The traffic.,traffic.,0.0,neutral,1.0,8.0,8.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.6402739882469177
+115.52,117.32,Participant, The traffic is horrible.,traffic horrible.,-1.0,negative,1.0,8.0,17.0,-0.5423,2,0.0,0.0,0.8773746490478516,0.0,0.0,0.0,0.0
+117.78,120.68,Participant," Well, probably traffic is horrible in almost any major city.","Well, probably traffic horrible almost major city.",-0.46875,negative,1.0,6.285714285714286,50.0,-0.34,7,0.0,0.0,0.5842615365982056,0.0,0.0,0.0,0.0
+120.9,122.72,Participant, But I hate the traffic.,hate traffic.,-0.8,negative,1.0,6.0,13.0,-0.5719,2,0.0,0.5689904093742371,0.0,0.0,0.0,0.0,0.0
+124.66,125.88,Participant, You travel a lot?,travel lot?,0.0,neutral,1.0,5.0,11.0,0.0,2,0.0,0.0,0.0,0.0,0.6221225261688232,0.0,0.0
+126.62,127.28,Participant, Not really.,really.,0.2,positive,1.0,7.0,7.0,0.0,1,0.0,0.0,0.0,0.0,0.8241420388221741,0.0,0.0
+127.98,130.26,Participant," I mean, I have enough things going on here.","mean, enough things going here.",-0.15625,negative,1.0,5.4,31.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.446564644575119,0.0
+130.26,135.26,Participant," So if I travel, it's usually somewhere within driving distance.","travel, usually somewhere within driving distance.",-0.25,negative,1.0,7.5,50.0,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.9059863090515137
+137.14,137.62,Participant, Okay.,Okay.,0.5,positive,1.0,5.0,5.0,0.2263,1,0.0,0.0,0.0,0.0,0.0,0.0,0.534888744354248
+139.8,141.02,Participant, What did you study at school?,study school?,0.0,neutral,1.0,6.0,13.0,0.0,2,0.0,0.0,0.0,0.0,0.7540199160575867,0.0,0.0
+142.02,144.08,Participant, I studied business.,studied business.,0.0,neutral,1.0,8.0,17.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.5338108539581299,0.0
+145.14,145.48,Participant, I didn't.,didn't.,0.0,neutral,1.0,7.0,7.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8060633540153503
+145.56,146.26,Participant, You still didn't know?,still know?,0.0,neutral,1.0,5.0,11.0,0.0,2,0.0,0.0,0.0,0.0,0.8144895434379578,0.0,0.0
+146.66,148.66,Participant," No, I've been done for a few years.","No, I've done years.",0.0,neutral,1.0,4.25,20.0,-0.296,4,0.0,0.0,0.0,0.0,0.0,0.0,0.8901113867759705
+148.84,151.2,Participant, I haven't gone to school for a while.,gone school while.,0.0,neutral,1.0,5.333333333333333,18.0,0.0,3,0.0,0.0,0.0,0.4824395775794983,0.0,0.0,0.0
+151.92,154.06,Participant, One of these days I'll go back to graduate school.,One days I'll go back graduate school.,0.0,neutral,1.0,4.571428571428571,38.0,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.39191263914108276
+154.06,157.74,Participant, But awesome.,awesome.,1.0,positive,1.0,8.0,8.0,0.6249,1,0.4183505177497864,0.0,0.0,0.0,0.0,0.0,0.0
+158.8,160.08,Participant, What's your dream job?,What's dream job?,0.0,neutral,1.0,5.0,17.0,0.25,3,0.0,0.0,0.0,0.0,0.7584540247917175,0.0,0.0
+161.32,165.44,Participant, A dream job would be to just work for myself and make lots of money.,dream job would work make lots money.,0.0,neutral,1.0,4.428571428571429,37.0,0.25,7,0.0,0.0,0.0,0.0,0.35769417881965637,0.0,0.0
+167.62,169.96,Participant, I don't really have a dream job.,really dream job.,0.2,positive,1.0,5.0,17.0,0.3167,3,0.0,0.0,0.0,0.0,0.4269719123840332,0.0,0.0
+170.68,181.08,Participant, It's just something that I can work under my own terms and get paid decently and be in a creative environment.,something work terms get paid decently creative environment.,0.5,positive,1.0,6.625,60.0,0.4404,8,0.7815133333206177,0.0,0.0,0.0,0.0,0.0,0.0
+183.48,184.48,Participant, How hard is that?,hard that?,-0.2916666666666667,negative,1.0,4.5,10.0,-0.1027,2,0.0,0.0,0.0,0.0,0.9266263246536255,0.0,0.0
+188.74,189.42,Participant, I don't know.,know.,0.0,neutral,1.0,5.0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8378745317459106
+189.58,192.22,Participant, I think it's just a matter of finding the right situation.,think matter finding right situation.,0.2857142857142857,positive,1.0,6.6,37.0,0.0258,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9419090151786804
+192.9,197.0,Participant, Right now people are a little conservative about what they want.,Right people little conservative want.,0.04910714285714285,positive,1.0,6.8,38.0,0.0056,5,0.0,0.0,0.0,0.0,0.0,0.0,0.7298883199691772
+197.58,198.68,Participant, And how they want it.,want it.,0.0,neutral,1.0,3.5,8.0,0.0772,2,0.0,0.0,0.0,0.0,0.0,0.0,0.7492086887359619
+199.16,201.88,Participant, It's a little tougher than it should be.,little tougher be.,-0.1875,negative,1.0,5.333333333333333,18.0,0.1045,3,0.0,0.0,0.0,0.0,0.0,0.0,0.8486225008964539
+202.2,203.4,Participant, But I don't know.,know.,0.0,neutral,1.0,5.0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8378745317459106
+203.56,206.24,Participant," I think when the situation is right, I don't think it's too difficult.","think situation right, think difficult.",-0.10714285714285715,negative,1.0,7.0,39.0,-0.3612,5,0.0,0.0,0.0,0.0,0.0,0.0,0.910515546798706
+207.88,210.72,Participant, It can be talked about in the job you think.,talked job think.,0.0,neutral,1.0,5.0,17.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.8905702233314514
+211.12,212.72,Participant, What do you do now?,now?,0.0,neutral,1.0,4.0,4.0,0.0,1,0.0,0.0,0.0,0.0,0.9104904532432556,0.0,0.0
+213.66,217.48,Participant, I work as an administrative assistant through a temp agency.,work administrative assistant temp agency.,0.0,neutral,1.0,7.6,42.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.4465247094631195
+219.02,224.46,Participant, It just basically gets sent out to do desk jobs.,basically gets sent desk jobs.,0.0,neutral,1.0,5.2,30.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.8774232864379883
+225.0,226.34,Participant, Are you happy with your job?,happy job?,0.8,positive,1.0,4.5,10.0,0.5719,2,0.7984327077865601,0.0,0.0,0.0,0.0,0.0,0.0
+228.48,229.56,Participant, Yes and no.,Yes no.,0.0,neutral,1.0,3.0,7.0,0.128,2,0.0,0.0,0.0,0.0,0.0,0.0,0.6388953924179077
+229.56,233.06,Participant, I feel like I could do more.,feel like could more.,0.5,positive,1.0,4.5,21.0,0.3612,4,0.524999737739563,0.0,0.0,0.0,0.0,0.0,0.0
+233.48,234.38,Participant," But no, it works.","no, works.",0.0,neutral,1.0,4.5,10.0,-0.296,2,0.0,0.0,0.0,0.0,0.0,0.0,0.581389307975769
+236.26,236.72,Participant, Okay.,Okay.,0.5,positive,1.0,5.0,5.0,0.2263,1,0.0,0.0,0.0,0.0,0.0,0.0,0.534888744354248
+239.36,241.24,Participant, Are you close to your family?,close family?,0.0,neutral,1.0,6.0,13.0,0.0,2,0.0,0.0,0.0,0.0,0.7287434339523315,0.0,0.0
+241.96,242.82,Participant, I'm pretty close.,I'm pretty close.,0.25,positive,1.0,5.0,17.0,0.4939,3,0.0,0.0,0.0,0.0,0.0,0.0,0.7844221591949463
+243.3,244.24,Participant," I mean, they're around.","mean, they're around.",-0.3125,negative,1.0,6.333333333333333,21.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.4877479374408722,0.0
+253.02,255.86,Participant, What are some things that make you really happy?,things make really happy?,0.8,positive,1.0,5.5,25.0,0.6115,4,0.6775351762771606,0.0,0.0,0.0,0.0,0.0,0.0
+257.32,259.78,Participant," God, really mad.","God, really mad.",-0.625,negative,1.0,4.666666666666667,16.0,-0.3384,3,0.0,0.45587584376335144,0.0,0.0,0.0,0.0,0.0
+260.98,266.36,Participant, Stupid people just basically doing anything to annoy me.,Stupid people basically anything annoy me.,-0.7999999999999999,negative,1.0,6.166666666666667,42.0,-0.743,6,0.0,0.8672640323638916,0.0,0.0,0.0,0.0,0.0
+268.58,270.68,Participant, That's the big thing.,That's big thing.,0.0,neutral,1.0,5.0,17.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.46016520261764526
+271.02,273.58,Participant, Just irritating stupid people.,irritating stupid people.,-0.6,negative,1.0,7.666666666666667,25.0,-0.7506,3,0.0,0.8537886142730713,0.0,0.0,0.0,0.0,0.0
+273.88,278.92,Participant, Just to provoke me for no reason at all.,provoke reason all.,0.0,neutral,1.0,5.666666666666667,19.0,-0.4019,3,0.0,0.0,0.0,0.0,0.0,0.0,0.942537784576416
+279.52,281.38,Participant, Can you give me an example of that?,give example that?,0.0,neutral,1.0,5.333333333333333,18.0,0.0,3,0.0,0.0,0.0,0.0,0.513062596321106,0.0,0.0
+284.1,285.5,Participant, What's a good example?,What's good example?,0.7,positive,1.0,6.0,20.0,0.4404,3,0.0,0.0,0.0,0.0,0.0,0.0,0.8442476987838745
+287.06,291.82,Participant, Just random people who think it's funny to just get a rise out of me.,random people think funny get rise me.,-0.125,negative,1.0,4.571428571428571,38.0,0.4404,7,0.0,0.0,0.0,0.0,0.41241756081581116,0.0,0.0
+292.04,296.38,Participant, It doesn't have to be one any specific situation.,one specific situation.,0.0,neutral,1.0,7.0,23.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9155741930007935
+297.18,299.04,Participant, It's just people who just think it's funny.,people think funny.,0.25,positive,1.0,5.666666666666667,19.0,0.4404,3,0.41372987627983093,0.0,0.0,0.0,0.0,0.0,0.0
+299.56,305.66,Participant, I think they're just generally sadistic and they just think it's funny to just prod you.,think they're generally sadistic think funny prod you.,0.15000000000000002,positive,1.0,5.875,54.0,0.4404,8,0.4317229390144348,0.0,0.0,0.0,0.0,0.0,0.0
+305.98,310.56,Participant," It's like poking a stick at an angry dog, knowing that they know how to...","like poking stick angry dog, knowing know to...",-0.5,negative,1.0,5.0,47.0,-0.2023,8,0.0,0.9728351831436157,0.0,0.0,0.0,0.0,0.0
+310.56,311.82,Participant, Make sure buttons for no reason.,Make sure buttons reason.,0.5,positive,1.0,5.5,25.0,0.3182,4,0.0,0.0,0.0,0.0,0.0,0.0,0.9515318870544434
+313.8,315.38,Participant, What is the last time you're happy?,last time happy?,0.4,positive,1.0,4.666666666666667,16.0,0.5719,3,0.0,0.0,0.0,0.0,0.49953052401542664,0.0,0.0
+319.28,319.8,Participant, Ahhhh.,Ahhhh.,0.0,neutral,1.0,6.0,6.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.5258117318153381
+322.3,323.34,Participant, I don't remember.,remember.,0.0,neutral,1.0,9.0,9.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.9273959398269653
+324.2,328.62,Participant," With those situations, I usually try not to remember when it happens.","situations, usually try remember happens.",-0.25,negative,1.0,7.4,41.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.9683955311775208
+328.9,332.42,Participant, I just let it go and just like the past is the past.,let go like past past.,-0.25,negative,1.0,3.6,22.0,0.3612,5,0.0,0.0,0.0,0.0,0.0,0.0,0.8372324109077454
+332.6,334.4,Participant, I just tend not to look back.,tend look back.,0.0,neutral,1.0,4.333333333333333,15.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.5777119398117065
+334.4,335.5,Participant, I understand.,understand.,0.0,neutral,1.0,11.0,11.0,0.0,1,0.0,0.0,0.371247261762619,0.0,0.0,0.0,0.0
+336.64,338.42,Participant," Do you consider yourself an angel, right?","consider angel, right?",0.2857142857142857,positive,1.0,6.666666666666667,22.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.8445857167243958
+339.38,340.16,Participant, What do you mean?,mean?,-0.3125,negative,1.0,5.0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.4851361811161041,0.0,0.0
+344.3,345.44,Participant, Let's come back to that.,Let's come back that.,0.0,neutral,1.0,4.5,21.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.7303614020347595
+345.64,348.04,Participant, What do you do to relax?,relax?,0.0,neutral,1.0,6.0,6.0,0.4404,1,0.0,0.0,0.0,0.0,0.5896819829940796,0.0,0.0
+349.4,350.6,Participant, What do I do to relax?,relax?,0.0,neutral,1.0,6.0,6.0,0.4404,1,0.0,0.0,0.0,0.0,0.5896819829940796,0.0,0.0
+351.06,351.78,Participant, I like to run.,like run.,0.0,neutral,1.0,4.0,9.0,0.3612,2,0.0,0.0,0.0,0.0,0.0,0.0,0.9122143387794495
+352.7,356.48,Participant," I like to go to the gym, listen to music.","like go gym, listen music.",0.0,neutral,1.0,4.4,26.0,0.3612,5,0.0,0.0,0.0,0.0,0.0,0.0,0.7894909977912903
+356.96,358.6,Participant, I have a lot of musician friends.,lot musician friends.,0.0,neutral,1.0,6.333333333333333,21.0,0.4767,3,0.0,0.0,0.0,0.0,0.0,0.0,0.6489569544792175
+359.64,361.46,Participant, I'm usually around musicians.,I'm usually around musicians.,-0.25,negative,1.0,6.5,29.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.45238569378852844
+361.46,373.38,Participant," So anything in that sort, I like everything from punk rock art to tattoos to just anything that's generally art and creative.","anything sort, like everything punk rock art tattoos anything that's generally art creative.",0.275,positive,1.0,6.153846153846154,92.0,0.6597,13,0.0,0.0,0.0,0.0,0.0,0.0,0.6855818629264832
+374.46,374.78,Participant, Awesome.,Awesome.,1.0,positive,1.0,8.0,8.0,0.6249,1,0.5764713287353516,0.0,0.0,0.0,0.0,0.0,0.0
+376.96,379.8,Participant, Who's been a positive influence in your life?,Who's positive influence life?,0.22727272727272727,positive,1.0,6.75,30.0,0.5574,4,0.0,0.0,0.0,0.0,0.0,0.0,0.8648051023483276
+381.22,384.46,Participant, Who's been a positive...,Who's positive...,0.22727272727272727,positive,1.0,8.0,17.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.5817970633506775
+384.46,389.66,Participant, Who's just friends in general who seem to do well.,Who's friends general seem well.,0.05000000000000002,positive,1.0,5.6,32.0,0.6369,5,0.0,0.0,0.0,0.0,0.0,0.0,0.7502738833427429
+389.92,391.78,Participant, And I think they're very inspiring.,think they're inspiring.,0.5,positive,1.0,7.333333333333333,24.0,0.4215,3,0.0,0.0,0.0,0.0,0.5524666905403137,0.0,0.0
+393.46,401.34,Participant, Which is sometimes a bit tough in a town like Los Angeles where I think everybody's on the go trying to accomplish their own goals.,sometimes bit tough town like Los Angeles think everybody's go trying accomplish goals.,-0.3888888888888889,negative,1.0,5.769230769230769,87.0,0.5859,13,0.0,0.0,0.0,0.0,0.0,0.0,0.8308863043785095
+401.72,409.32,Participant, So it's sometimes hard to find someone who's going to be uplifting or trying to be inspiring.,sometimes hard find someone who's going uplifting trying inspiring.,0.10416666666666666,positive,1.0,6.555555555555555,67.0,0.34,9,0.0,0.0,0.0,0.0,0.0,0.0,0.5399877429008484
+409.32,416.64,Participant," I don't really have anybody in particular, but people have kind of brought up things here and there.","really anybody particular, people kind brought things there.",0.32222222222222224,positive,1.0,6.625,60.0,0.5267,8,0.0,0.0,0.0,0.0,0.0,0.0,0.6783823370933533
+418.78,419.26,Participant, What's life?,What's life?,0.0,neutral,1.0,5.5,12.0,0.0,2,0.0,0.0,0.0,0.0,0.5979847311973572,0.0,0.0
+420.1,427.66,Participant," It's like, hey, instead of doing this, how about doing that or, hey, you're good at this, why aren't you doing that?","like, hey, instead this, or, hey, good this, that?",0.7,positive,1.0,4.666666666666667,50.0,0.6597,9,0.5641922354698181,0.0,0.0,0.0,0.0,0.0,0.0
+427.66,428.62,Participant, Or something like that.,something like that.,0.0,neutral,1.0,6.0,20.0,0.3612,3,0.0,0.0,0.0,0.0,0.0,0.0,0.9243781566619873
+429.62,435.88,Participant, I'm always looking for new opportunities so they always point out things that maybe I could do differently.,I'm always looking new opportunities always point things maybe could differently.,0.06818181818181818,positive,1.0,6.454545454545454,81.0,0.3818,11,0.0,0.0,0.0,0.0,0.0,0.0,0.8665685653686523
+436.5,443.24,Participant," Instead of just being negative saying, hey, don't do that. That's why you're doing that. It's a waste of time.","Instead negative saying, hey, that. That's that. waste time.",-0.25,negative,3.0,5.777777777777778,60.0,-0.7579,9,0.0,0.4399246871471405,0.0,0.0,0.0,0.0,0.0
+448.32,450.18,Participant, How are you controlling your tongue?,controlling tongue?,0.0,neutral,1.0,9.0,19.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.49875327944755554
+453.14,455.52,Participant, I guess it depends on who you talk to.,guess depends talk to.,0.0,neutral,1.0,4.75,22.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.9080426692962646
+459.8,463.08,Participant, I'm okay at it. I could probably work at that.,I'm okay it. could probably work that.,0.5,positive,2.0,4.571428571428571,38.0,0.2263,7,0.0,0.0,0.0,0.0,0.0,0.0,0.7398529648780823
+465.32,470.6,Participant, I don't know. I think I could do better at it.,know. think could better it.,0.5,positive,2.0,4.8,28.0,0.4404,5,0.0,0.0,0.0,0.0,0.0,0.0,0.6865943074226379
+470.64,472.08,Participant, Can you give me an example of that?,give example that?,0.0,neutral,1.0,5.333333333333333,18.0,0.0,3,0.0,0.0,0.0,0.0,0.513062596321106,0.0,0.0
+473.04,475.68,Participant," Well, back to the point about people provoking me.","Well, back point people provoking me.",0.0,neutral,1.0,5.333333333333333,37.0,0.0772,6,0.0,0.668365478515625,0.0,0.0,0.0,0.0,0.0
+475.84,480.86,Participant," So I mean, I try not to blow steam and let them get under my skin.","mean, try blow steam let get skin.",-0.3125,negative,1.0,4.0,34.0,0.0,7,0.0,0.6102456450462341,0.0,0.0,0.0,0.0,0.0
+480.86,484.16,Participant, So I just usually try not to let it get to me.,usually try let get me.,-0.25,negative,1.0,3.8,23.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.49365556240081787
+485.18,489.52,Participant," But I don't know. I guess with temper, I guess it depends on how I handle my stress.","know. guess temper, guess depends handle stress.",0.0,neutral,2.0,6.0,48.0,-0.6808,7,0.0,0.0,0.0,0.0,0.0,0.0,0.5086109638214111
+490.44,495.14,Participant," Lately, I've been better at it just because I think my situation's been a little bit better.","Lately, I've better think situation's little bit better.",0.2708333333333333,positive,1.0,6.125,56.0,0.7003,8,0.0,0.0,0.0,0.0,0.0,0.0,0.8150995969772339
+503.68,504.5,Participant, No.,No.,0.0,neutral,1.0,3.0,3.0,-0.296,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8298873901367188
+505.16,510.78,Participant, Have you ever served in military?,ever served military?,-0.1,negative,1.0,6.333333333333333,21.0,0.0,3,0.0,0.0,0.0,0.0,0.47436103224754333,0.0,0.0
+511.28,511.58,Participant, No.,No.,0.0,neutral,1.0,3.0,3.0,-0.296,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8298873901367188
+513.98,516.3,Participant, Is there anything you're about?,anything about?,0.0,neutral,1.0,7.0,15.0,0.0,2,0.0,0.0,0.0,0.0,0.6492936611175537,0.0,0.0
+520.1,526.74,Participant," Nothing major. I mean, maybe when I was younger, I could have traveled more.","Nothing major. mean, maybe younger, could traveled more.",0.0625,positive,2.0,6.125,56.0,0.0,8,0.0,0.0,0.0,0.0,0.0,0.0,0.8829382061958313
+526.74,532.24,Participant, I could have worked towards something that paid better job-wise.,could worked towards something paid better job-wise.,0.5,positive,1.0,6.571428571428571,52.0,0.4404,7,0.0,0.0,0.0,0.0,0.0,0.0,0.41093581914901733
+532.62,537.3,Participant," But I mean, those are all things that I think at any point in life, you always think like,","mean, things think point life, always think like,",-0.3125,negative,1.0,5.25,49.0,0.3612,8,0.0,0.0,0.0,0.0,0.0,0.3515912592411041,0.0
+537.38,539.22,Participant," well, I could have should have done.","well, could done.",0.0,neutral,1.0,5.0,17.0,0.2732,3,0.0,0.0,0.0,0.0,0.0,0.0,0.7993719577789307
+539.72,543.28,Participant," But then again, I think that's natural for anybody.","again, think that's natural anybody.",0.1,positive,1.0,6.4,36.0,0.3612,5,0.0,0.0,0.0,0.0,0.0,0.0,0.5661057829856873
+544.46,552.56,Participant, I could have become a banker or a lawyer or a doctor who made about ten times the money that I've made now.,could become banker lawyer doctor made ten times money I've made now.,0.0,neutral,1.0,4.833333333333333,69.0,0.0,12,0.0,0.0,0.0,0.0,0.7092457413673401,0.0,0.0
+552.56,556.68,Participant," But then again, I don't like law and I don't like medicine.","again, like law like medicine.",0.0,neutral,1.0,5.2,30.0,0.6124,5,0.0,0.0,0.0,0.0,0.0,0.0,0.8623877763748169
+557.1,559.44,Participant, So it wasn't meant to be.,meant be.,0.0,neutral,1.0,4.0,9.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.7674334645271301
+561.18,563.74,Participant, There are always stereotypes in my own family.,always stereotypes family.,0.0,neutral,1.0,8.0,26.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.4218585789203644,0.0
+564.04,564.22,Participant, Yeah.,Yeah.,0.0,neutral,1.0,5.0,5.0,0.296,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8143126368522644
+564.94,566.52,Participant, Looking to decide to do them.,Looking decide them.,0.0,neutral,1.0,6.0,20.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.8663126230239868
+568.04,578.54,Participant," I think in my life, I knew that there's a lot of things that there's more dislikes than likes.","think life, knew there's lot things there's dislikes likes.",0.0,neutral,1.0,5.666666666666667,59.0,0.0258,9,0.0,0.0,0.0,0.0,0.0,0.0,0.8308442234992981
+578.54,590.94,Participant," So I narrowed it down to, what am I good at and what am I not good at and what am I going to work well with and who am I not work well with.","narrowed to, good good going work well work well with.",0.7,positive,1.0,4.5,54.0,0.8402,10,0.0,0.0,0.0,0.0,0.0,0.0,0.7001520991325378
+591.6,598.2,Participant, So I sorted out and then the list answered itself.,sorted list answered itself.,0.0,neutral,1.0,6.25,28.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.8371062278747559
+599.36,600.78,Participant, What sounds really hard?,sounds really hard?,-0.2916666666666667,negative,1.0,5.666666666666667,19.0,-0.1761,3,0.0,0.0,0.0,0.0,0.820873498916626,0.0,0.0
+601.88,607.2,Participant," No, I don't think it was hard, but I think it was the real reality check.","No, think hard, think real reality check.",-0.04583333333333334,negative,1.0,5.0,41.0,-0.3818,7,0.0,0.0,0.0,0.0,0.0,0.0,0.8232097625732422
+607.36,616.24,Participant, And I think it's kind of a good thing because sometimes trying to conform to doing things that doesn't really fit you doesn't make sense.,think kind good thing sometimes trying conform things really fit make sense.,0.5666666666666665,positive,1.0,5.416666666666667,76.0,0.8439,12,0.0,0.0,0.0,0.0,0.0,0.0,0.8335224390029907
+616.8,621.64,Participant, It's like trying to shove a round pig into a square hole.,like trying shove round pig square hole.,-0.2,negative,1.0,4.857142857142857,40.0,0.3612,7,0.0,0.6057515740394592,0.0,0.0,0.0,0.0,0.0
+621.92,625.98,Participant," And it's like, it's just no matter how you try to shove it in, it's not going to go in.","like, matter try shove in, going go in.",0.0,neutral,1.0,4.0,39.0,0.3818,8,0.0,0.7283989787101746,0.0,0.0,0.0,0.0,0.0
+625.98,632.0,Participant, And so sometimes it just might as well go down a path that seems to work better for you.,sometimes might well go path seems work better you.,0.5,positive,1.0,4.777777777777778,51.0,0.6124,9,0.0,0.0,0.0,0.0,0.0,0.0,0.5123196840286255
+633.1,634.6,Participant," Like, one of these things.","Like, one things.",0.0,neutral,1.0,5.0,17.0,0.3612,3,0.0,0.0,0.0,0.0,0.0,0.0,0.7258549928665161
+638.3,640.42,Participant, What's one of your most memorable experiences?,What's one memorable experiences?,0.5,positive,1.0,7.5,33.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.6526016592979431
+642.96,644.08,Participant, Memorable experiences.,Memorable experiences.,0.5,positive,1.0,10.5,22.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.5348337888717651
+649.78,655.14,Participant," I think it's just, I don't really have like any one in particular.","think just, really like one particular.",0.18333333333333335,positive,1.0,5.666666666666667,39.0,0.4201,6,0.0,0.0,0.0,0.0,0.0,0.0,0.9561936855316162
+655.38,661.0,Participant," I think every day is almost like a memorable experience, whether it's positive or negative.","think every day almost like memorable experience, whether positive negative.",0.14242424242424243,positive,1.0,6.7,76.0,0.2748,10,0.0,0.0,0.0,0.0,0.0,0.0,0.6519413590431213
+661.44,664.28,Participant, I think it's just everything from getting it.,think everything getting it.,0.0,neutral,1.0,6.25,28.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.9017788171768188
+664.28,672.44,Participant, It's just the fact that I got a job and I can take care of myself is already almost like a memorable experience.,fact got job take care already almost like memorable experience.,0.5,positive,1.0,5.5,64.0,0.6605,10,0.6959490776062012,0.0,0.0,0.0,0.0,0.0,0.0
+672.62,687.3,Participant," Maybe for the average person, it sounds stupid, but you know, I think just the fact that I'm able to get this far in life without completely self-destructing is already in accomplishments.","Maybe average person, sounds stupid, know, think fact I'm able get far life without completely self-destructing already accomplishments.",-0.049999999999999996,negative,1.0,6.611111111111111,136.0,-0.5267,18,0.0,0.0,0.0,0.0,0.0,0.449882447719574,0.0
+687.3,690.38,Participant, So I feel like I've gotten somewhere.,feel like I've gotten somewhere.,0.0,neutral,1.0,5.6,32.0,0.3612,5,0.9039453268051147,0.0,0.0,0.0,0.0,0.0,0.0
+691.58,695.38,Participant, Maybe not to the point to the average person.,Maybe point average person.,-0.15,negative,1.0,6.0,27.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.9527012705802917
+695.54,697.44,Participant," They might think, well, why aren't you a millionaire?","might think, well, millionaire?",0.0,neutral,1.0,7.0,31.0,0.2732,4,0.0,0.0,0.0,0.0,0.38244643807411194,0.0,0.0
+697.74,700.18,Participant, But you know what? Not everybody can be a millionaire.,know what? everybody millionaire.,0.0,neutral,2.0,7.5,33.0,0.0,4,0.0,0.0,0.0,0.0,0.38009414076805115,0.0,0.0
+704.46,704.98,Participant, Yeah.,Yeah.,0.0,neutral,1.0,5.0,5.0,0.296,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8143126368522644
+706.8,707.32,Participant, Yeah.,Yeah.,0.0,neutral,1.0,5.0,5.0,0.296,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8143126368522644
+709.58,712.16,Participant, When was the last time you were all really happy?,last time really happy?,0.4,positive,1.0,5.0,23.0,0.6115,4,0.0,0.0,0.0,0.0,0.44298315048217773,0.0,0.0
+721.66,722.98,Participant, I don't know.,know.,0.0,neutral,1.0,5.0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8378745317459106
+723.1,723.32,Participant, I don't know.,know.,0.0,neutral,1.0,5.0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8378745317459106
+723.32,730.18,Participant," I'm not really someone who's like, I don't have any real high highs or low lows.","I'm really someone who's like, real high highs low lows.",0.14666666666666667,positive,1.0,4.7,56.0,-0.0352,10,0.0,0.0,0.0,0.0,0.0,0.0,0.8441849946975708
+730.4,731.6,Participant," I mean, I haven't hit any lows.","mean, hit lows.",-0.3125,negative,1.0,4.333333333333333,15.0,-0.2023,3,0.0,0.0,0.0,0.4432205259799957,0.0,0.0,0.0
+731.94,734.22,Participant, I don't know.,know.,0.0,neutral,1.0,5.0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8378745317459106
+734.24,742.14,Participant," I'm usually pretty, I feel like I'm a level person and I'm pretty, every day, I feel like if I accomplish one thing that I'm pretty high,","I'm usually pretty, feel like I'm level person I'm pretty, every day, feel like accomplish one thing I'm pretty high,",0.2275,positive,1.0,4.9,117.0,0.9468,20,0.8576353788375854,0.0,0.0,0.0,0.0,0.0,0.0
+742.14,747.56,Participant," I'm pretty happy, so I guess to answer the question probably yesterday.","I'm pretty happy, guess answer question probably yesterday.",0.525,positive,1.0,6.5,59.0,0.7845,8,0.9696906805038452,0.0,0.0,0.0,0.0,0.0,0.0
+748.1,753.76,Participant," I just feel like if I'm able to accomplish something, then hey, I'm happy.","feel like I'm able accomplish something, hey, I'm happy.",0.65,positive,1.0,5.333333333333333,56.0,0.8402,9,0.9902017712593079,0.0,0.0,0.0,0.0,0.0,0.0
+754.98,755.8,Participant, That's great.,That's great.,0.8,positive,1.0,6.0,13.0,0.6249,2,0.9287320375442505,0.0,0.0,0.0,0.0,0.0,0.0
+757.52,759.04,Participant, How do your best friends graduate?,best friends graduate?,1.0,positive,1.0,6.666666666666667,22.0,0.8074,3,0.0,0.0,0.0,0.0,0.8203481435775757,0.0,0.0
+760.76,766.4,Participant," I don't know. I don't really have a best friend, but I mean, I'll answer the question generally friends.","know. really best friend, mean, I'll answer question generally friends.",0.24583333333333335,positive,2.0,6.2,71.0,0.9016,10,0.0,0.0,0.0,0.0,0.0,0.0,0.5175325274467468
+767.34,773.14,Participant," I think they would say that I'm pretty outgoing, I'm pretty determined.","think would say I'm pretty outgoing, I'm pretty determined.",0.25,positive,1.0,5.666666666666667,59.0,0.875,9,0.0,0.0,0.0,0.0,0.0,0.0,0.8339365124702454
+774.84,779.4,Participant," I'm trying, no, I try to interact as much as possible.","I'm trying, no, try interact much possible.",0.0,neutral,1.0,5.285714285714286,43.0,-0.296,7,0.0,0.0,0.0,0.0,0.0,0.0,0.5932924151420593
+780.06,782.36,Participant, I'm always out networking as much as possible.,I'm always networking much possible.,0.0,neutral,1.0,6.4,36.0,0.0,5,0.788631021976471,0.0,0.0,0.0,0.0,0.0,0.0
+783.88,785.24,Participant," So, I don't know.","So, know.",0.0,neutral,1.0,4.0,9.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.5217145681381226
+785.7,789.98,Participant, I guess that's basically what I think they would describe me as.,guess that's basically think would describe as.,0.0,neutral,1.0,5.857142857142857,47.0,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.8994278311729431
+791.08,791.64,Participant, Okay.,Okay.,0.5,positive,1.0,5.0,5.0,0.2263,1,0.0,0.0,0.0,0.0,0.0,0.0,0.534888744354248
+795.32,795.84,Participant, Okay.,Okay.,0.5,positive,1.0,5.0,5.0,0.2263,1,0.0,0.0,0.0,0.0,0.0,0.0,0.534888744354248
+795.84,797.74,Participant," I think I've asked you, I think I need to.","think I've asked you, think need to.",0.0,neutral,1.0,4.285714285714286,36.0,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.8614620566368103
+797.96,798.24,Participant, Okay.,Okay.,0.5,positive,1.0,5.0,5.0,0.2263,1,0.0,0.0,0.0,0.0,0.0,0.0,0.534888744354248
+800.14,801.18,Participant, No problem.,problem.,0.0,neutral,1.0,8.0,8.0,-0.4019,1,0.0,0.0,0.0,0.0,0.0,0.0,0.5044228434562683
+802.14,802.66,Participant, Alright.,Alright.,0.0,neutral,1.0,8.0,8.0,0.25,1,0.0,0.0,0.0,0.0,0.0,0.0,0.6827763915061951
+812.22,813.42,Participant, You all done?,done?,0.0,neutral,1.0,5.0,5.0,0.0,1,0.0,0.0,0.0,0.0,0.90793377161026,0.0,0.0
+813.62,813.82,Participant, Yeah.,Yeah.,0.0,neutral,1.0,5.0,5.0,0.296,1,0.0,0.0,0.0,0.0,0.0,0.0,0.8143126368522644
+813.82,814.34,Participant, Okay.,Okay.,0.5,positive,1.0,5.0,5.0,0.2263,1,0.0,0.0,0.0,0.0,0.0,0.0,0.534888744354248
+814.74,817.12,Participant, I'm going to shut all this down and we just have a quick break.,I'm going shut quick break.,0.3333333333333333,positive,1.0,4.6,27.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.6056037545204163
+818.04,818.28,Participant, Okay.,Okay.,0.5,positive,1.0,5.0,5.0,0.2263,1,0.0,0.0,0.0,0.0,0.0,0.0,0.534888744354248
+818.62,819.06,Participant, That was weird.,weird.,-0.5,negative,1.0,6.0,6.0,-0.1779,1,0.0,0.0,0.0,0.0,0.0,0.9670226573944092,0.0
+821.14,822.96,Participant, Should I unplug this?,unplug this?,0.0,neutral,1.0,5.5,12.0,0.0,2,0.0,0.0,0.0,0.0,0.3834853172302246,0.0,0.0

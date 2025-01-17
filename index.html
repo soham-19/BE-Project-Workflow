@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Therapy Management System</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Therapy Management System</h1>
+
+        <!-- Workflow Form -->
+        <div id="workflowFormSection">
+            <h2 class="text-center mb-4">Workflow Automation</h2>
+            <form id="workflowForm" class="p-6">
+                <div class="mb-3">
+                    <label for="fileInput" class="form-label">Upload Your File</label>
+                    <input type="file" id="fileInput" class="form-control" />
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <button type="submit" id="submitButton" class="btn-start-workflow">Start Workflow</button>
+                    <button type="button" id="resetButton" class="btn btn-secondary d-none">Reset</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Loading Spinner -->
+        <div id="loadingSpinner" class="text-center mt-3 d-none">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+
+        <!-- Workflow Status -->
+        <div id="workflowStatus" class="mt-4"></div>
+
+        <!-- Demo Line Chart -->
+        <div class="container mt-5">
+            <!-- Demo Line Chart Title (Initially hidden) -->
+            <h3 class="text-center" id="chartTitle" style="display: none;">Patient Progress Report</h3>
+            <canvas style="display: none;" id="lineChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Transcript Modal -->
+    <div class="modal fade" id="transcriptModal" tabindex="-1" aria-labelledby="transcriptModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="transcriptModalLabel">Transcript Content</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="transcriptContent">
+                    <p class="text-muted">Loading transcript...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom script -->
+    <script src="script.js"></script>
+
+    <!-- Line Chart Script -->
+    <script>
+        window.onload = function () {
+            // Dummy data for the line graph (negative, neutral, positive speech)
+            const labels = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    
+            // Data for negative, neutral, and positive speech
+            const negativeSpeechData = [20, 18, 15, 25, 30, 20, 10, 15, 25, 18];
+            const neutralSpeechData = [30, 28, 25, 20, 15, 22, 30, 20, 18, 22];
+            const positiveSpeechData = [50, 54, 60, 55, 55, 58, 60, 65, 57, 60];
+    
+            // Ensure the sum of negative, neutral, and positive speech is always 100
+            // Adjusting values so that the total sum for each point is 100%
+            const totalData = labels.map((_, index) => {
+                const total = negativeSpeechData[index] + neutralSpeechData[index] + positiveSpeechData[index];
+                const scale = 100 / total;
+                return {
+                    negative: negativeSpeechData[index] * scale,
+                    neutral: neutralSpeechData[index] * scale,
+                    positive: positiveSpeechData[index] * scale,
+                };
+            });
+    
+            // Construct data for the chart
+            const data = {
+                labels: labels,
+                datasets: [
+                    {
+                        label: 'Negative Speech',
+                        data: totalData.map(d => d.negative),
+                        borderColor: 'rgb(255, 99, 132)', // Red
+                        fill: false,
+                        tension: 0.0, // Curvy line
+                    },
+                    {
+                        label: 'Neutral Speech',
+                        data: totalData.map(d => d.neutral),
+                        borderColor: 'rgb(54, 162, 235)', // Blue
+                        fill: false,
+                        tension: 0.0, // Curvy line
+                    },
+                    {
+                        label: 'Positive Speech',
+                        data: totalData.map(d => d.positive),
+                        borderColor: 'rgb(75, 192, 192)', // Green
+                        fill: false,
+                        tension: 0.0, // Curvy line
+                    }
+                ]
+            };
+    
+            // Create the line chart
+            const config = {
+                type: 'line',
+                data: data,
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Session Number'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Speech Percentage'
+                            },
+                            min: 0,
+                            max: 100, // Y-axis from 0% to 100%
+                        }
+                    }
+                }
+            };
+    
+            // Adjust canvas size (width and height)
+            const canvas = document.getElementById('lineChart');
+            canvas.width = 800; // Width of the chart
+            canvas.height = 400; // Height of the chart
+    
+            const lineChart = new Chart(
+                canvas,
+                config
+            );
+        };
+    </script>
+    
+</body>
+
+</html>
